@@ -1,0 +1,11 @@
+{
+  "org": "rubocop",
+  "repo": "rubocop-performance",
+  "versions": [
+    {
+      "commit": "22a6f2175b4d564fdb3a3d0840e7cdb604e18092",
+      "tag": "",
+      "parsed_at": "2026-11-10T02:25:14.162191+00:00"
+    }
+  ]
+}
