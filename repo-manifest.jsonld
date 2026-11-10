@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/rubocop/rubocop-performance/commit/22a6f2175b4d564fdb3a3d0840e7cdb604e18092",
       "git:hexsha": "22a6f2175b4d564fdb3a3d0840e7cdb604e18092",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-10T02:25:14.160861+00:00"
     },
     {
       "@id": "https://repolex.ai/r/rubocop/rubocop-performance/commit/698bd3eb84d1eb6bc66f94dc0d73f58af3eb5bc4",
